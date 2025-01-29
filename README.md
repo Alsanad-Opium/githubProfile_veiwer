@@ -12,10 +12,6 @@ A sleek and modern GitHub Profile Viewer that allows users to search for GitHub 
 - 🔗 "Visit Profile" button to directly open the GitHub profile  
 - 🌑 Dark-themed UI with a modern design  
 
-## 📷 Preview
-
-![GitHub Profile Viewer Screenshot](preview.png)  
-*(Add a screenshot of your project here)*
 
 ## 🛠️ Technologies Used
 

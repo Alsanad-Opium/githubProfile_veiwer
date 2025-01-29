@@ -28,7 +28,7 @@ A sleek and modern GitHub Profile Viewer that allows users to search for GitHub 
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/github-profile-viewer.git` 
+   git clone https://github.com/Alsanad-Opium/github-profile-viewer.git` 
 
 2.  Open the `index.html` file in your browser.
 
